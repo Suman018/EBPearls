@@ -1,0 +1,35 @@
+[
+  {
+	"id":"1",
+	"username":"sujan",
+	"fname":"sujan",
+	"lname":"sapkota",
+	"email":"sapkota@yopmail.com",
+	"password":"sapkota999",
+	"phone":"9876543290",
+	"userstatus":"1"
+ 
+  },
+  {
+	"id":"2",
+	"username":"sudan",
+	"fname":"sudan",
+	"lname":"sapkota",
+	"email":"sapkota1@yopmail.com",
+	"password":"sapkota999",
+	"phone":"9876533290",
+	"userstatus":"1"
+ 
+  },
+  {
+	"id":"1",
+	"username":"susan",
+	"fname":"susan",
+	"lname":"sapkota",
+	"email":"sapkota2@yopmail.com",
+	"password":"sapkota999",
+	"phone":"9876553290",
+	"userstatus":"1"
+ 
+  }
+]
